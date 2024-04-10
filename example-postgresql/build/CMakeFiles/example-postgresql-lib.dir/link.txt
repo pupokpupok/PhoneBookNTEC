@@ -1,0 +1,2 @@
+/usr/bin/ar qc libexample-postgresql-lib.a CMakeFiles/example-postgresql-lib.dir/src/service/ContactsService.cpp.o CMakeFiles/example-postgresql-lib.dir/src/ErrorHandler.cpp.o
+/usr/bin/ranlib libexample-postgresql-lib.a

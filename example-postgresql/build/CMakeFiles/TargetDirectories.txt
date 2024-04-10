@@ -1,0 +1,6 @@
+/home/vboxuser/three/example-postgresql/build/CMakeFiles/example-postgresql-lib.dir
+/home/vboxuser/three/example-postgresql/build/CMakeFiles/example-postgresql-exe.dir
+/home/vboxuser/three/example-postgresql/build/CMakeFiles/example-postgresql-test.dir
+/home/vboxuser/three/example-postgresql/build/CMakeFiles/test.dir
+/home/vboxuser/three/example-postgresql/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/three/example-postgresql/build/CMakeFiles/rebuild_cache.dir
